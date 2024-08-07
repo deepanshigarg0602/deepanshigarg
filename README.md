@@ -29,10 +29,9 @@
   <a href="https://www.linkedin.com/in/deepanshi-garg-139781214" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
 </a>
-</div>
-
-<div id="header" >
+  <div id="header" >
   <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300"/>
+</div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -105,16 +104,14 @@
 </table>
 
 
-<div>
-   # ![Most Used Languages](https://img.shields.io/badge/Most%20Used%20Languages-FFA500?style=for-the-badge&logo=github)
+# ![Most Used Languages](https://img.shields.io/badge/Most%20Used%20Languages-FFA500?style=for-the-badge&logo=github)
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshigarg0602&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
     <img src="https://github-readme-stats.vercel.app/api?username=deepanshigarg0602&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-</div>
 
 
+ # ![My Stats](https://img.shields.io/badge/My%20Stats-FFA500?style=for-the-badge&logo=github)
 <div align="center">
-  # ![My Stats](https://img.shields.io/badge/My%20Stats-FFA500?style=for-the-badge&logo=github)
   <img src="https://streak-stats.demolab.com?user=deepanshigarg0602&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
